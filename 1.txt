@@ -1,1 +1,1 @@
-valid = 38:b1:db:3f:02:09
+me = 38:b1:db:3f:02:09  valid
